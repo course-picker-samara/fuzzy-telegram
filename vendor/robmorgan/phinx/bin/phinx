@@ -24,5 +24,5 @@
  * IN THE SOFTWARE.
  */
 
-$app = require __DIR__ . '/../app/phinx.php';
+$app = require __DIR__ . '/../../phinx.php';
 $app->run();
